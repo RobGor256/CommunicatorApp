@@ -1,0 +1,57 @@
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.exe
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.deps.json
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.runtimeconfig.json
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.pdb
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.AssemblyReference.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ServerApp.Client.resources
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.GenerateResource.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.AssemblyInfoInputs.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.AssemblyInfo.cs
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.CopyComplete
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\refint\ClientApp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.pdb
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.genruntimeconfig.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ref\ClientApp.dll
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.exe
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.deps.json
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.runtimeconfig.json
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.dll
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.pdb
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ServerApp.Client.resources
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.GenerateResource.cache
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.AssemblyInfoInputs.cache
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.AssemblyInfo.cs
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.CopyComplete
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.dll
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\refint\ClientApp.dll
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.pdb
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.genruntimeconfig.cache
+C:\Users\Chris\Downloads\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ref\ClientApp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.exe
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.deps.json
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.runtimeconfig.json
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\ClientApp.pdb
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.AssemblyReference.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ServerApp.Client.resources
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.GenerateResource.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.AssemblyInfoInputs.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.AssemblyInfo.cs
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.csproj.CopyComplete
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\refint\ClientApp.dll
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.pdb
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ClientApp.genruntimeconfig.cache
+C:\Users\trebo\Desktop\Projekt-Programowanie Zaawansowane\Projekt-kod\CommunicatorApp_final\CommunicatorApp\CommunicatorApp\obj\Debug\net6.0-windows\ref\ClientApp.dll

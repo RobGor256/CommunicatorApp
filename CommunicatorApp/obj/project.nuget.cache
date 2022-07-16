@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2PMSlBwYeXTZAFzY43kavmIjX9bI3sAsZM50eD/U2TfzFjKoGGvSRDw8lwp0hzxTBOBtuNGg8TlTSjuMFmsrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trebo\\Desktop\\Projekt-Programowanie Zaawansowane\\Projekt-kod\\CommunicatorApp_final\\CommunicatorApp\\CommunicatorApp\\ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trebo\\.nuget\\packages\\supersimpletcp\\2.6.1.1\\supersimpletcp.2.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
