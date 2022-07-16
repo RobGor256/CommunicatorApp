@@ -12,6 +12,7 @@ namespace ServerApp
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Server());
+            var lol = 1;
         }
     }
 }
